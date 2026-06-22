@@ -239,4 +239,4 @@ export const WithBackgroundImage = (props: PromoCtaProps): JSX.Element => {
   );
 };
 
-// Code extraction
+// Code extraction - 1
